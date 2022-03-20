@@ -1,0 +1,34 @@
+ru/inventorium/qa/helpers/RunHelper.java
+ ru.inventorium.qa.helpers.RunHelper
+ru/inventorium/qa/config/RealConfig.java
+ ru.inventorium.qa.config.RealConfig
+ru/inventorium/qa/drivers/BrowserstackMobileDriver.java
+ ru.inventorium.qa.drivers.BrowserstackMobileDriver
+ru/inventorium/qa/helpers/Browserstack.java
+ ru.inventorium.qa.helpers.Browserstack
+ru/inventorium/qa/drivers/RealMobileDriver.java
+ ru.inventorium.qa.drivers.RealMobileDriver
+ru/inventorium/qa/drivers/SelenoidAndroidDriver.java
+ ru.inventorium.qa.drivers.SelenoidAndroidDriver
+ru/inventorium/qa/tests/browserstack/TestBase.java
+ ru.inventorium.qa.tests.browserstack.TestBase
+ru/inventorium/qa/tests/local/TestBase.java
+ ru.inventorium.qa.tests.local.TestBase
+ru/inventorium/qa/config/SelenoidConfig.java
+ ru.inventorium.qa.config.SelenoidConfig
+ru/inventorium/qa/config/BrowserstackConfig.java
+ ru.inventorium.qa.config.BrowserstackConfig
+ru/inventorium/qa/utils/FileUtils.java
+ ru.inventorium.qa.utils.FileUtils
+ru/inventorium/qa/tests/browserstack/BrowserStackAndroidSelenideTests.java
+ ru.inventorium.qa.tests.browserstack.BrowserStackAndroidSelenideTests
+ru/inventorium/qa/config/LocalConfig.java
+ ru.inventorium.qa.config.LocalConfig
+ru/inventorium/qa/config/RunConfig.java
+ ru.inventorium.qa.config.RunConfig
+ru/inventorium/qa/tests/local/AndroidTests.java
+ ru.inventorium.qa.tests.local.AndroidTests
+ru/inventorium/qa/helpers/Attach.java
+ ru.inventorium.qa.helpers.Attach
+ru/inventorium/qa/drivers/LocalAndroidDriver.java
+ ru.inventorium.qa.drivers.LocalAndroidDriver
